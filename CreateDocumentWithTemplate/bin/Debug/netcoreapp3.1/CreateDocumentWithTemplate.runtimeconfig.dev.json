@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hicas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hicas\\.nuget\\packages"
+    ]
+  }
+}
